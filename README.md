@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm MayMon! 👋  
 
-<!--
-**MayMon-T3807/MayMon-T3807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me  
+I am a passionate data science student currently pursuing Data Science and Statistics at Parami University. 
 
-Here are some ideas to get you started:
+## 📚 Academic Focus  
+* **Major**: Data Science and Statistics  
+* **University**: Parami University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Technical Skills  
+* **Programming Languages**:  
+   * Python  
+   * R  
+* **Areas of Interest**:  
+   * Data Science  
+   * Machine Learning  
+   * Community Development Projects  
+
+## 🚀 Current Learning Path  
+* Deepening knowledge in Python and R  
+* Exploring advanced machine learning concepts  
+* Developing skills in data analysis and statistical modeling  
+
+## 🐱 Fun Fact  
+Cat Person and Zombie movies enjoyer
