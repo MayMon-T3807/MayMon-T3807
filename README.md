@@ -4,7 +4,8 @@
 
 **Data Science Enthusiast**  
 
-I am passionate about exploring the world of data and uncovering insights to solve problems.  
+I am passionate about exploring the world of data and uncovering insights  
+to solve problems.  
 
 ---
 
@@ -17,4 +18,5 @@ I am passionate about exploring the world of data and uncovering insights to sol
 
 ## 📫 Connect with Me  
 
-Feel free to reach out for collaborations or discussions about data science, programming, or web development.
+Feel free to reach out for collaborations or discussions about  
+data science, programming, or web development.
